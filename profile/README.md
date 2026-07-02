@@ -1,4 +1,6 @@
-# MakeACS - An open-source machine access control, user training, and shop management system for makerspaces, FabLabs, teaching shops, and more! 
+# MakeACS
+
+## An open-source machine access control, user training, and shop management system for makerspaces, FabLabs, learning shops, and more! 
 
 ## Features
 * Develop and deploy training modules for your users to complete to gain access to resources.
@@ -6,3 +8,7 @@
 * Manage critical shop operations like maintenance, inventory, and documentation.
 * Gather useful usage statistics about your equipment and resource utilization.
 * Integrate with other systems like 3DPrinterOS to expand training and access across platforms.
+
+## Development
+
+Development led by the Rochester Institute of Technology's SHED Makerspace.
